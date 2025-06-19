@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "Ownglyph_ParkDaHyun";
+  src: url("@/assets/fonts/Ownglyph_ParkDaHyun.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* 폰트를 전체에 적용 */
+body {
+  font-family: "Ownglyph_ParkDaHyun", sans-serif;
+}
