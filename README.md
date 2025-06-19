@@ -1,3 +1,5 @@
+<p align="center"><img width="812" alt="image" src="https://github.com/user-attachments/assets/274124cc-157c-4756-9da2-22036dabd781" /></p>
+
 # 🎂 My Ordinary Cake
 
 > **주문 제작 케이크 예약 시스템**  
